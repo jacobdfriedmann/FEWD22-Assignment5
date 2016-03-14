@@ -13,11 +13,11 @@
  * We've started you off, replace the sec
  */
  
-	function question1(){
-		$("replaceMe").css("replaceMe", "replaceMe");
-	}
+	// function question1(){
+	// 	$("p").css("color", "blue");
+	// }
 
-	$("#button1").click(question1);
+	// $("#button1").click(question1);
 
 /**
  * Question 2:
@@ -25,7 +25,7 @@
  */
 
 	// function question2(){
-	// 	$("replaceMe").replaceMe("replaceMe");
+	// 	$("h2").text("Kevin Chiang");
 	// }
 
 	// $("#button1").click(question2);
@@ -36,11 +36,11 @@
  * Using jQuery change the content to read "True Fact".
  */
 
-	// function replaceMe(){
-	// 	$("replaceMe").html("replaceMe");
-	// }
+	function replaceMe(){
+		$(".falseFact").li("True Fact");
+	}
 
-	// $("#button1").click(question3);
+	$("#button1").click(question3);
 
 
 //SECTION 2: Now you are on your own. Write the necessary code to accomplish the following.
